@@ -1,12 +1,15 @@
 # SecJ
 
-Insufficient Input Validation_Vulnerability(Rust)
+Insufficient Input Validation - Query String Vulnerability - Rust
 
 ### Install
 
 chmod +x install.sh
 
 ./install.sh
+
+source "$HOME/.cargo/env"
+
 
 ### Run
 
