@@ -10,7 +10,7 @@ chmod +x install.sh
 
 ### Run
 
-cd App 
+cd App  |  cd vuln_App
 
 cargo run 
 
