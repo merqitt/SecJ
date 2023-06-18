@@ -2,6 +2,12 @@
 
 Insufficient Input Validation - Query String Vulnerability - Rust
 
+### Clone Repository 
+
+sudo apt install git
+
+git clone https://github.com/merqitt/SecJ.git
+
 ### Install
 
 chmod +x install.sh
