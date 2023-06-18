@@ -50,7 +50,7 @@ http://127.0.0.1:8000/passwords.txt
 
 __________________________________________________________________________________________________________________________________________________________________________________
 
-## Assignment Details
+# Assignment Details
 
 The goal of the assignment is to:
 
@@ -76,14 +76,22 @@ Additional Information:
 - You can use anything for the lesson description—a google doc, word, markdown, etc. - **Joplin**
     
 
-# Suggested Subjects/Vulnerabilities
+## Suggested Subjects/Vulnerabilities
 
 - **Insufficient Input Validation**
 
-# Part Two: Vulnerable Application Example
+## Part Two: Vulnerable Application Example
 
 The goal of the assignment is to:
 
 - [x] create an application that contains the vulnerability
     
 - [x] create the patch to the vulnerability to resolve it
+
+__________________________________________________________________________________________________________________________________________________________________________________
+
+# TODO
+- [] Future Todos - Rust Juice Shop
+- [] Implement POST functionality
+- [] Login/Logout feature
+- 
