@@ -16,15 +16,29 @@ chmod +x install.sh
 
 source "$HOME/.cargo/env"
 
-
 ### Run
 
-cd App  |  cd vuln_App
+cd vuln_App
 
 cargo run 
 
 open http://127.0.0.1:8000
 
 http://127.0.0.1:8000/passwords.txt
+
+
+### Run
+
+cd App  
+
+cargo run 
+
+open http://127.0.0.1:8000
+
+http://127.0.0.1:8000/passwords.txt
+
+![Screenshot from 2023-06-18 14-45-39](https://github.com/merqitt/SecJ/assets/90560259/1562d9e4-396d-47db-8939-a3d4060f4a62)
+
+
 
 
