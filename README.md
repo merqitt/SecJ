@@ -6,7 +6,9 @@ Insufficient Input Validation - Query String Vulnerability - Rust
 
 sudo apt install git
 
-git clone https://github.com/merqitt/SecJ.git
+git clone https://github.com/merqitt/SecJ.git 
+
+cd SecJ
 
 ### Install
 
@@ -25,6 +27,8 @@ cargo run
 open http://127.0.0.1:8000
 
 http://127.0.0.1:8000/passwords.txt
+
+![Screenshot from 2023-06-18 14-58-43](https://github.com/merqitt/SecJ/assets/90560259/c4de92ff-e81b-4dcd-b7bf-6c47b9283cb0)
 
 
 ### Run
