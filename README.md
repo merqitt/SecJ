@@ -88,10 +88,10 @@ The goal of the assignment is to:
     
 - [x] create the patch to the vulnerability to resolve it
 
-__________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________
 
-# TODO
-- [] Future Todos - Rust Juice Shop
-- [] Implement POST functionality
-- [] Login/Logout feature
-- 
+# Future TODOs
+    - [ ] Future - Rust Juice Shop
+    - [ ] Implement POST functionality
+    - [ ] Login/Logout feature
+    - [ ] 
