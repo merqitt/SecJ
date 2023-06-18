@@ -86,4 +86,4 @@ The goal of the assignment is to:
 
 - [x] create an application that contains the vulnerability
     
-- [ ] create the patch to the vulnerability to resolve it
+- [x] create the patch to the vulnerability to resolve it
