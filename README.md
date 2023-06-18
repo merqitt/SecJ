@@ -91,7 +91,8 @@ The goal of the assignment is to:
 _____________________________________________________________________________________________________________________________________________
 
 # Future TODOs
+
     - [ ] Future - Rust Juice Shop
     - [ ] Implement POST functionality
     - [ ] Login/Logout feature
-    - [ ] 
+    - [ ] UI - Front-end refresher/template
