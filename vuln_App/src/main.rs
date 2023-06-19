@@ -1,4 +1,9 @@
-#[macro_use] extern crate rocket;
+#![allow(dead_code)]
+#![allow(unused_imports)]
+#![allow(non_snake_case)]
+
+#[macro_use] 
+extern crate rocket;
 
 mod paste_id;
 

@@ -2,7 +2,7 @@ use std::borrow::Cow;
 use std::path::{Path, PathBuf};
 use rand::{self, Rng};
 
-/// A _probably_ unique paste ID.
+
 pub struct PasteId<'a>(Cow<'a, str>);
 
 impl PasteId<'_> {
