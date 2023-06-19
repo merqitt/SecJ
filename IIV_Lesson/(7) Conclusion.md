@@ -1,11 +1,4 @@
----
-title: '(7) Conclusion '
-updated: 2023-06-18 23:13:26Z
-created: 2023-06-18 17:22:09Z
-latitude: 35.77958970
-longitude: -78.63817870
-altitude: 0.0000
----
+## Conclusion
 
 This was just one example of one input validation scenario (query string) that your application can fall victim to.  As mentioned in the module with the advances in modern frameworks, make sure to utilize all functionality that is offered and be rigorous in your search for user provided input, paying especially close attention to data that is derived from other parts of the application.
 

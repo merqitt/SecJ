@@ -1,11 +1,4 @@
----
-title: (5) Defense
-updated: 2023-06-19 02:05:33Z
-created: 2023-06-18 17:21:47Z
-latitude: 35.77958970
-longitude: -78.63817870
-altitude: 0.0000
----
+## Defense
 
 To prevent these type of attacks all user input should be thoroughly scrutinized.  If the input does not meet the input validation requirements it should be rejected, sanitized, or filtered before being used anywhere else in the application.
 
@@ -21,13 +14,13 @@ This will defend you against the exploit, by validating the id before it is used
 
 First import the necessary module functionality into the application.
 
-```
+```rust
 use rocket::request::FromParam;
 ```
 
 Using the documentation make note of the required methods and associated types.
 
-```
+```rust
 impl<'a> FromParam<'a> for PasteId<'a>; {
     type Error = &'a str;
     

@@ -1,12 +1,3 @@
----
-title: (1) Introduction
-updated: 2023-06-19 01:58:27Z
-created: 2023-06-18 16:19:51Z
-latitude: 35.77958970
-longitude: -78.63817870
-altitude: 0.0000
----
-
 ## Insufficient Input Validation
 
 Input validation is a crucial part of the Software Development Life Cycle (SDLC) and is essential when it comes to securing your web application.

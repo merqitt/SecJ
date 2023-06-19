@@ -1,12 +1,3 @@
----
-title: (3) Reconnaissance
-updated: 2023-06-18 23:00:29Z
-created: 2023-06-18 17:15:07Z
-latitude: 35.77958970
-longitude: -78.63817870
-altitude: 0.0000
----
-
 ## Reconnaissance
 
 There are different techniques that can be used for detecting this type of vulnerability.  Tools such as Web Application Vulnerability Scanners (i.e. AppScan, Nessus, etc.) or targeted manual code review.

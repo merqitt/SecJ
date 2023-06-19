@@ -1,11 +1,4 @@
----
-title: (6) Remediation
-updated: 2023-06-19 01:19:45Z
-created: 2023-06-18 17:21:52Z
-latitude: 35.77958970
-longitude: -78.63817870
-altitude: 0.0000
----
+## Remediation
 
 As part of the overall validation strategy your validator is in place and now you can refactor this specific code to take advantage of the trait on `PasteId`
 

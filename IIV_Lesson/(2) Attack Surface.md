@@ -1,12 +1,3 @@
----
-title: (2) Attack Surface
-updated: 2023-06-19 01:59:54Z
-created: 2023-06-18 17:11:29Z
-latitude: 35.77958970
-longitude: -78.63817870
-altitude: 0.0000
----
-
 ## Attack Surface
 
 This vulnerability can occur across a wide array of implementations and applications.  It can manifests itself in different ways depending on code complexity, network structure, and conformance to the specified business logic.
