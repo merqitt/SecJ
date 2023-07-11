@@ -4,7 +4,7 @@ Insufficient Input Validation (IIV)
 
 Query String Vulnerability - Rust
 
-Input validation is a frequently-used technique for checking potentially dangerous inputs in order to ensure that the inputs are safe for processing within the code, or when communicating with other components. When software does not validate input properly, an attacker is able to craft the input in a form that is not expected by the rest of the application. This will lead to parts of the system receiving unintended input, which may result in unintended output. (CWE)
+Input validation is a frequently-used technique for checking potentially dangerous inputs.  This is done in order to ensure that the user provided data is safe for processing within the code, or when communicating with other components. When software does not validate input properly, an attacker is able to execute unintended program behaviors based on the input which is not expected by the programmer or the rest of the application. This will lead to parts of the system receiving unintended input, which may result in unintended output. (CWE)
 
 
 ### Clone Repository 
